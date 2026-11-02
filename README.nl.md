@@ -2,6 +2,8 @@
 
 Een snelle, privacyvriendelijke kleurcontrastchecker voor ontwerpers en ontwikkelaars. Vergelijk tekst- en achtergrondkleuren, bekijk een live voorbeeld en controleer de WCAG 2.2 AA- en AAA-drempels.
 
+**Live demo:** [Probeer Contrast Compass](https://codearcade-ctrl.github.io/contrast-compass/)
+
 **Talen:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Functies

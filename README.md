@@ -2,6 +2,8 @@
 
 A fast, private color-contrast checker for designers and developers. Compare foreground and background colors, preview real text, and check the result against WCAG 2.2 AA and AAA thresholds.
 
+**Live demo:** [Try Contrast Compass](https://codearcade-ctrl.github.io/contrast-compass/)
+
 **Languages:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Features
